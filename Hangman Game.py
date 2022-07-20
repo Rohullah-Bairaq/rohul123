@@ -1,3 +1,5 @@
+# Hangman Game
+
 name = input("Enter name: ")
 print("Hello " + name + " time to play hangman!")
 
