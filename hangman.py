@@ -1,4 +1,4 @@
-# dr angela yu
+# hangman game
 
 import random
 
